@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Macha</h1>
-<h3 align="center">I'm a Developer, Traveler, Optimist and constant learner!</h3>
+<h3 align="center">Developer · Traveler · Optimist · Constant Learner</h3>
 
 <p align="left"> <a href="https://twitter.com/akashmacha" target="blank"><img src="https://img.shields.io/twitter/follow/akashmacha?logo=twitter&style=for-the-badge" alt="akashmacha" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Node, and Jenkins.**
 
 - 💬 Ask me about **React, .NET, Git, JavaScript, Java.**
-
-- 📫 How to reach me **akashmacha1999@gmail.com**
 
 - ⚡ Fun fact: **I am fond of riding bikes, cars, and playing drums.**
 
@@ -101,4 +99,14 @@
     </a>
     </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-macha&show_icons=true&locale=en&layout=compact" alt="akash-macha" /></p>
+### 📊 GitHub Stats
+ 
+<!-- <p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=akash-macha&show_icons=true&theme=radical&cache_seconds=86400" alt="akash-macha stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-macha&layout=compact&theme=radical&cache_seconds=86400" alt="top languages" width="48%"/>
+</p> -->
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=akash-macha&theme=radical" alt="streak stats"/>
+</p>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-macha&show_icons=true&locale=en&layout=compact" alt="akash-macha" /></p> -->
