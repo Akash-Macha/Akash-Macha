@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashmacha" target="blank"><img src="https://img.shields.io/twitter/follow/akashmacha?logo=twitter&style=for-the-badge" alt="akashmacha" /></a> </p>
 
-- 🌱 I’m currently learning **AI Engineering and FastAPI.**
+- 🌱 Currently building expertise in **AI Engineering** and **FastAPI**.
 
 - 💬 Ask me about **React, .NET, Git, JavaScript, Java.**
 
